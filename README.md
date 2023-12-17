@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WhiteHare2023
 - 👀 I’m interested in AI & Web3
 - 🌱 I’m currently learning Move/zkp
-- 💞️ I hope to contribute my strength in the web3 world
+- 💞️ I hope to find a good chance in Web3 world
 - 📫 How to reach me:whitehare2023@gmail.com
 - 💬 WeChat:WhiteHare2023
 
