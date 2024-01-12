@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Move/zkp
 - 💞️ I hope to find a good chance in Web3 world
 - 📫 How to reach me:whitehare2023@gmail.com
-- 💬 WeChat:WhiteHare2023
+- 💬 WeChat:whitehare2023
 
 <!---
 WhiteHare2023/WhiteHare2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
