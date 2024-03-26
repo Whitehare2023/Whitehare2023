@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WhiteHare2023
+- 👋 Hi, I’m @Whitehare2023
 - 👀 I’m interested in AI & Web3
 - 🌱 I’m currently learning Move/zkp
 - 💞️ I hope to find a good chance in Web3 world
